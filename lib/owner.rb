@@ -1,4 +1,3 @@
-
 class Owner
   @@all = []
 
@@ -44,7 +43,7 @@ class Owner
 
   def walk_dogs
     pets[:dogs].each do |dog|
-      dog.mood = "happy"
+      dog.mood = "hexit!appy"
     end
   end
 
