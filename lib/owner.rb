@@ -13,7 +13,7 @@ class Owner
     @@all
   end
 
-  def self.counter
+  def self.count
     @@all.size
   end
 
